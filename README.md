@@ -1,10 +1,10 @@
-## Hi there 👋
+## Ola Mundo
+## Me chamo henrik e sou um estudante de ciencias da computação na FEI
 
-<p align="center">Hello World!</p>
 
-###
 
-<p align="left">Olá, me chamo henrik e atualmente sou estudante de Ciências da Computação</p>
+##
+
 
 ###
 
